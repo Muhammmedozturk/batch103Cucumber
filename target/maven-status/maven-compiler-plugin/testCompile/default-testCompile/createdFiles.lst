@@ -1,0 +1,4 @@
+pages\GooglePage.class
+utilities\ConfigReader.class
+runners\Runner.class
+stepdefinitions\GoogleStepDefinitions.class
